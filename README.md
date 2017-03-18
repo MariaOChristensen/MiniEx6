@@ -1,5 +1,5 @@
 Writhe
-![screenshot](https://github.com/MariaOChristensen/MiniEx6/blob/gh-pages/Miniex6screenshot.png)
+![screenshot](https://github.com/MariaOChristensen/MiniEx6/blob/gh-pages/Mini%20ex%206/Miniex6screenshot.png)
 Yep, I did another Silent Hill-esque program, though this time it was not planned. I had some time ago fallen in love with an example on p5.js' site that is this tentacle reaching for the mouse or a bouncing ball. My first idea was to use it to create seaweed flowing in the water, but when I tried to look for some code that could give the ball - that the tentacle reaches for - random paths to go by, one of the codes made its movements become very jagged, resulting in that the tentacle moved in a jagged manner as well. I thought it looked like a nasty monster, so I juiced it up with some Silent Hill soundtrack an a filter - by using the sound and image codes that I have had success with in previous programs. 
 
 (I apologise for the next section's huge text, but I have tried and failed to fix it)
